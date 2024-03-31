@@ -57,14 +57,14 @@ The original creators of the project have the right to remove your PenguinMod re
 This is also true even if you have stated you have permission to reupload the project by the original creator.
 
 # PenguinMod Mods / Forks
-If your project only works outside of PenguinMod, don't upload it to our site.
-All PenguinMod projects should actually work on PenguinMod, please upload your project to it's respective site to avoid problems for us.
+If your project only works outside of Insignia, don't upload it to our site.
+All Insignja projects should actually work on Insignis, please upload your project to it's respective site to avoid problems for us.
 
 *(Note for developers: If we get a lot of projects uploaded from your mod that don't work on PenguinMod, we'll likely end up blocking your site from the API. See [here for details](https://github.com/PenguinMod/penguinmod.github.io/blob/develop/FORKING.md).)*
 
 # "Chatroom" Projects or Projects based around online chatting
 ```warning
-As of November 14th, 2023, PenguinMod has decided to ban uploaded projects based around chatting with other users.
+As of November 14th, 2023, PenguinMod and all other Penguinmod based has decided to ban uploaded projects based around chatting with other users.
 ```
 
 Please do not upload these types of projects anymore.
@@ -75,7 +75,7 @@ and we do not believe we will be able to keep these types of projects safe for e
 
 # Projects with an online chat feature
 ```warning
-As of November 14th, 2023, PenguinMod has decided to ban uploaded projects based around chatting with other users.
+As of November 14th, 2023, PenguinMod and all other Penguinmod based has decided to ban uploaded projects based around chatting with other users.
 ```
 This section is talking about projects that have online chat, but aren't focused around it.
 
@@ -141,7 +141,7 @@ You cannot make reference to:
 - Terrorism
 - Death Threats
 
-Any content that promotes or encourages suicide, self-harm or creating/sending death threats will not be tolerated, and your account will be banned.
+Any content that promotes or encourages suicide, self-harm or creating/sending death threats will not be tolerated, and your account will be banned We may Even join with law enforcement agencies to do it.
 
 Content related to, glorifying, or referencing mass shootings, bombings, or any form of violent extremism will be removed.
 Repeated violation will cause your account to be banned.
@@ -242,6 +242,6 @@ We will also remove your project if it contains pirated content or material, and
 Reasons your project might be removed include, but are not limited to:
 - Including logos or designs without explicit permission from the owner(s)
 - Using other people's artwork or music without explicit permission from the owner(s)
-- Using/Repurposing content from another PenguinMod user without their permission
+- Using/Repurposing content from another Insignia user without their permission
 
 If you are a company or individual and believe your copyright has been violated, [please check contact methods here.](https://studio.penguinmod.com/contact.html)
